@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Go <br>🌱 I’m currently learning React-native<br>
+🔭 I’m currently working on Golang <br>🌱 I’m currently learning React-native<br>
 
 
 ## 🌐 Socials:
